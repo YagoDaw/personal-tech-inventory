@@ -1,6 +1,18 @@
-# Personal Technology Inventory & Homelab
+<div align="center">
 
-![SPARKS LAB Banner](assets/banner-cyberpunk.png)
+<img href="https://github.com/YagoDaw" src="assets/banner-cyberpunk.png" width="80%">
+
+# SPARKS_LABS
+
+### Personal Technology Inventory • Homelab • Cybersecurity • Automation
+
+![Linux](https://img.shields.io/badge/Linux-Kali-blue)
+![Windows](https://img.shields.io/badge/Windows-11-blue)
+![RaspberryPi](https://img.shields.io/badge/Raspberry%20Pi-4-red)
+![Python](https://img.shields.io/badge/Python-3.x-green)
+![Status](https://img.shields.io/badge/Status-Active-success)
+
+</div>
 
 ## Overview
 
