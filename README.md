@@ -10,7 +10,7 @@ El objetivo es mantener un registro técnico actualizado del hardware, periféri
 
 # Owner Profile
 
-**Nombre:** Deivid Santiago Leguizamo Rodríguez
+**Nombre:** Santiago Rodríguez
 
 **Áreas de interés**
 
