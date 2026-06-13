@@ -1,5 +1,7 @@
 # Personal Technology Inventory & Homelab
 
+![SPARKS LAB Banner](assets/banner-cyberpunk.png)
+
 ## Overview
 
 Este repositorio documenta el inventario tecnológico personal disponible para proyectos de desarrollo de software, administración de sistemas, ciberseguridad, automatización, almacenamiento, laboratorios Linux, multimedia y aprendizaje tecnológico.
@@ -60,7 +62,7 @@ El objetivo es mantener un registro técnico actualizado del hardware, periféri
 
 | Característica | Valor |
 |---------------|---------|
-| CPU | AMD Ryzen 5000 Series |
+| CPU | AMD 3 Ryzen 5000 Series |
 | GPU | AMD Radeon Graphics |
 | RAM | 16 GB |
 | SSD | 250 GB |
@@ -68,8 +70,10 @@ El objetivo es mantener un registro técnico actualizado del hardware, periféri
 
 ### Posibles Roles
 
+- Herramienta principal de desarrollo
 - Servidor Principal
 - Desarrollo Web
+  
 - Virtualización
 - Docker
 - NAS ligero
@@ -93,6 +97,7 @@ El objetivo es mantener un registro técnico actualizado del hardware, periféri
 - Monitor de red
 - Router Linux
 - Equipo secundario
+- Seguridad informatica
 
 ### Mejoras Recomendadas
 
@@ -156,6 +161,9 @@ El objetivo es mantener un registro técnico actualizado del hardware, periféri
 | Modelo | WD11PURZ |
 | Capacidad | 1 TB |
 | Tipo | Surveillance HDD |
+
+- Hacen falta complementos o un equipo de torre para darle uso
+- Hardware dedicado
 
 ### Observaciones
 
