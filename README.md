@@ -100,7 +100,7 @@ El objetivo es mantener un registro técnico actualizado del hardware, periféri
 | CPU | AMD A6 |
 | RAM | 4 GB |
 | Disco | 500 GB HDD |
-| Sistema Operativo | Kali Linux Rolling 2026.1 |
+| Sistema Operativo | Linux Mint Cinnamon |
 
 ### Posibles Roles
 
